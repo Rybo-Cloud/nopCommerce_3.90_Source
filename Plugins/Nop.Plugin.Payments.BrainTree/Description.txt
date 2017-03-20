@@ -1,0 +1,9 @@
+﻿Group: Payment methods
+FriendlyName: BrainTree Credit Card Processing
+SystemName: Payments.BrainTree
+Version: 1.21
+SupportedVersions: 3.90
+Author: Ryan Crawford
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.BrainTree.dll
+Description: This plugin enables braintree gateway
